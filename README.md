@@ -1,1 +1,1 @@
-# Fifth Corp
+# Pygame Model-View-Controller Template project
